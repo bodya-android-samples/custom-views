@@ -3,4 +3,6 @@
     <string name="custom_padding_plus">Custom padding +</string>
     <string name="custom_padding_minus">Custom padding -</string>
     <string name="swap_color">swap color</string>
+    <string name="add_letter">add letter</string>
+    <string name="remove_letter">remove letter</string>
 </resources>
